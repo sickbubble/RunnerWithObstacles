@@ -10,6 +10,10 @@ This game is developed in collaboration with Panteon Game Development Academy. S
 
 The aim of this project is to provide hands-on experience and learning opportunities in the field of game animations. It focuses on implementing and experimenting with various animation techniques, including character movement, blending, transitions, and more.
 
+## Demo
+
+Check out the live demo of Runner with Obstacles [here](https://youtu.be/ZHCGVA9bvtk)!
+
 ## Usage
 
 To run the project and explore the animations, follow these steps:
