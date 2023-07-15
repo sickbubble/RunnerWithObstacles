@@ -12,7 +12,10 @@ The aim of this project is to provide hands-on experience and learning opportuni
 
 ## Demo
 
-Check out the live demo of Runner with Obstacles [here](https://youtu.be/ZHCGVA9bvtk)!
+Check out the live demo of Runner with Obstacles 
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/ZHCGVA9bvtk/0.jpg)](https://www.youtube.com/watch?v=ZHCGVA9bvtk)
+
 
 ## Usage
 
